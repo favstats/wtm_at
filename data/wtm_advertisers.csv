@@ -27,6 +27,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,entities.is_activ
 23a04289-6aca-4c91-b1f3-ba32ed812d9a,Die Grünen Dietach,2022-12-14T13:28:01.081Z,58474d52-c10b-46a6-8ca1-33c8c497eddc,GRÜNE,true,true,Austria,at,157256672090,Die Grünen Dietach,Facebook
 2a3bec0e-5e34-4784-8013-e329eb316ebd,Grüne Akademie,2022-12-14T13:27:59.175Z,b0856241-3cdd-490e-9ff0-ceabe0f6eb15,GRÜNE,true,true,Austria,at,103643703042666,Grüne Akademie,Facebook
 2bb3e44d-a6c7-40b2-a619-30f90a20c77e,Grüne Deutsch-Wagram,2023-03-08T14:39:41.141Z,63ae4e48-0fb0-425e-a2b0-d3e0cd28c2ef,GRÜNE,true,true,Austria,at,377484809065753,Grüne Deutsch-Wagram,Facebook
+2bba8f06-cf1c-4c1e-93a3-6e641cd417e9,Ewa Ernst-Dziedzic,2022-12-14T13:27:57.756Z,b2771b72-3e28-434b-b86b-cf05d91688c6,GRÜNE,true,true,Austria,at,1756026008024095,Ewa Ernst-Dziedzic,Facebook
 31008bdd-211c-49c8-aa6f-dfaa404fe58a,Die Grünen - Feldkirch blüht,2023-06-16T09:31:50.230Z,b006ebf8-afd4-4dc7-9d73-d36c1149ea76,GRÜNE,true,true,Austria,at,285831948251345,Die Grünen - Feldkirch blüht,Facebook
 32defacb-7962-40b3-a273-c7271c52635d,Grüne Jugend Burgenland,2022-12-14T13:28:00.309Z,1adabb66-6dbe-461a-8aba-a5653999836a,GRÜNE,true,true,Austria,at,1004413223281635,Grüne Jugend Burgenland,Facebook
 3b0a18de-60b0-4d15-8100-e23a25820e91,Die Grünen Wels,2023-06-09T06:51:31.323Z,a1f3ce63-80bf-4249-beb6-838439b0e392,GRÜNE,true,true,Austria,at,277574252387534,Die Grünen Wels,Facebook
@@ -185,13 +186,16 @@ f9304381-0666-4b31-9c27-9d6ad6119909,Themengruppe Leistbares Wohnen -  Die Grün
 5da35a7f-31b0-4cbb-b20a-a7ef99929965,SPÖ Klagenfurt-Land,2023-02-07T15:05:01.614Z,6dc2574f-5db8-4f98-8345-a32f773ee770,SPÖ,true,true,Austria,at,106962408492900,SPÖ Klagenfurt-Land,Facebook
 5f915958-09e6-4ad5-ae4d-cc13f95e5138,Doris Kampus,2023-04-09T10:51:42.901Z,6c994150-aa6e-45ea-8d12-949e5ba7f946,SPÖ,true,true,Austria,at,2056235971275620,Doris Kampus,Facebook
 62199eea-9cce-4733-b769-db6bcfb5b3c1,SPÖ Kärnten,2022-12-14T13:27:58.459Z,ce7e925d-aaf8-45c2-877f-60e74879a122,SPÖ,true,true,Austria,at,10150145829810364,SPÖ Kärnten,Facebook
+65485ac7-b68f-4058-9cb8-f1acadbba67f,Ernst Woller,2022-12-14T13:27:57.553Z,67594f8a-f249-400b-b9a8-e6bc49b77b01,SPÖ,true,true,Austria,at,293216668136559,Ernst Woller,Facebook
 65f144d3-8f1b-441d-8def-d1ad9cb2e51e,Team Markus Rumelhart - SPÖ Mariahilf,2023-05-16T06:51:34.700Z,857a5943-3c5b-4dd5-8f35-7649abecc6ef,SPÖ,true,true,Austria,at,413465882055599,Team Markus Rumelhart - SPÖ Mariahilf,Facebook
+67ebcc62-f992-4e8a-bc3d-a0c709cf43c3,Martin Borger,2022-12-14T13:27:58.172Z,3d0cfe1b-9802-42b7-ac37-01bc473131fc,SPÖ,true,true,Austria,at,526470757450133,Martin Borger,Facebook
 68bc5aa4-b804-4ddb-81d9-b65af832197e,SPÖ Josefstadt,2022-12-14T13:27:59.390Z,d1aada81-3ed1-461e-93e0-2750fb724da3,SPÖ,true,true,Austria,at,674977385874323,SPÖ Josefstadt,Facebook
 695bd286-289a-4743-9ab8-711141e5c082,,2023-05-18T06:51:44.813Z,bbfc1a85-bb08-4358-90a8-d971418e79e4,SPÖ,true,true,Austria,at,116347418116566,,Facebook
 6a8737dc-052c-43a1-abbe-5e308c1b61ca,Maximilian Dollberger,2023-09-14T05:05:25.296Z,fa990ab5-5f43-432c-bb0f-18823a11a40e,SPÖ,true,true,Austria,at,105521149304002,Maximilian Dollberger,Facebook
 6b52f0b8-7322-4e3c-991a-1ed9963f2125,Sabine Engleitner-Neu,2023-08-16T05:06:12.589Z,2673f211-e9f0-4acb-95b9-286e4060bcfa,SPÖ,true,true,Austria,at,106511511736457,Sabine Engleitner-Neu,Facebook
 6c85ffbc-bae1-4eb2-9ac9-965191d95f6d,SPÖ Leobersdorf,2024-01-02T05:05:14.501Z,2783a047-aac7-4bde-a7cc-9fea3a3ced39,SPÖ,true,true,Austria,at,322641195732,SPÖ Leobersdorf,Facebook
 6ea5ba4c-4651-4093-8909-0c654eede21b,Benedikt Lentsch,2022-12-14T13:27:57.452Z,a056be09-a364-40c7-9c5e-f8e90406a7e9,SPÖ,true,true,Austria,at,100246468221960,Benedikt Lentsch,Facebook
+6fe2b2d9-3be2-4574-933f-1285bafa15c0,Jürgen Czernohorszky,2022-12-14T13:27:57.079Z,7be67607-800b-4039-b13a-def5f543ac13,SPÖ,true,true,Austria,at,1929623263924061,Jürgen Czernohorszky,Facebook
 73be4115-ff9e-4be4-8a35-58d98db17609,SPÖ Hernals,2023-03-06T10:51:49.449Z,a2d87af6-aa06-43c2-a949-6d0b15d4db95,SPÖ,true,true,Austria,at,120106831360939,SPÖ Hernals,Facebook
 73f44a18-1735-4f9f-842a-06dd9e563906,SPÖ Oberösterreich,2022-12-14T13:27:56.996Z,32e00a91-7792-4ee1-8277-8368f916bbe0,SPÖ,true,true,Austria,at,208930355786005,SPÖ Oberösterreich,Facebook
 74ce6405-8fad-4a3e-a18f-9c54f0fa85a9,Wilfried Zankl,2022-12-14T13:27:59.177Z,81b74d67-3042-450c-96a0-96f1d4adf1c2,SPÖ,true,true,Austria,at,116639375035250,Wilfried Zankl,Facebook
@@ -283,6 +287,7 @@ fd1bd0e7-ca20-43c5-b349-518b01a8deff,Zeller SPÖ,2023-11-07T05:05:37.478Z,7238f8
 0da9bfc1-80f3-4f16-9b51-cd247b9cd481,FPÖ Stadtpartei Leoben,2023-05-06T06:51:49.274Z,24ae9003-3e6d-4b90-bc50-3c5c5be974aa,FPÖ,true,true,Austria,at,365568483560440,FPÖ Stadtpartei Leoben,Facebook
 1186fa71-0b40-4624-8dd4-dabb89cb0640,Stefan Berger,2022-12-14T13:27:57.716Z,3d8c7df8-afdc-4b66-aff3-623924b95b7b,FPÖ,true,true,Austria,at,215865342202419,Stefan Berger,Facebook
 11a891ab-8585-4f59-9647-89e9c618854c,Hans-Peter Kurz,2022-12-14T13:27:56.769Z,590aaad5-78d0-49e6-a966-3c9f143982fd,FPÖ,true,true,Austria,at,109607947639778,Hans-Peter Kurz,Facebook
+124d4758-7f1f-4f92-8f4e-b54e318a6422,Harald Vilimsky,2022-12-14T13:27:56.979Z,13aae23a-07ae-42b7-8ac5-98a199706d3c,FPÖ,true,true,Austria,at,547597092025909,Harald Vilimsky,Facebook
 1265d2fb-c34f-4931-a8e0-05663cf2f01e,Andreas Arthur Spanring,2022-12-14T13:27:58.014Z,be6bddc8-c6f7-493e-9f15-52171357420d,FPÖ,true,true,Austria,at,133148385584650,Andreas Arthur Spanring,Facebook
 149b9096-fc8e-4bc6-916c-307a95bfbfc5,Christoph Staudacher,2022-12-14T13:27:58.557Z,f9591d34-6f66-4172-b668-c1cc1cc1fe44,FPÖ,true,true,Austria,at,588798327805981,Christoph Staudacher,Facebook
 14cba74b-3b35-4334-9037-93606fd28089,Roman Haider,2023-12-21T05:05:17.244Z,11b46bb2-1a93-4d49-8c6f-a6a78da125bb,FPÖ,true,true,Austria,at,974833556055459,Roman Haider,Facebook
@@ -443,6 +448,7 @@ e6d15b58-2a3e-4155-98c3-894f3daefd4a,Niko Swatek,2022-12-14T13:27:56.556Z,9709ec
 ec07dd33-bb67-42e9-9bbc-f2cb9f5370a2,NEOS Lab,2023-06-13T06:51:43.910Z,520bce1c-e128-4e71-b997-9af758e6691f,NEOS,true,true,Austria,at,206883332848669,NEOS Lab,Facebook
 f260f755-78f9-440f-b439-93fc81c11a4e,Karin Feldinger,2023-04-04T10:51:47.431Z,818cf0a4-8432-4256-a6fd-74b23195f6e4,NEOS,true,true,Austria,at,2281711605386893,Karin Feldinger,Facebook
 00e0c020-3b36-410b-ae0a-2dc5bb87d86a,Christian Sagartz,2023-11-15T05:05:30.597Z,f4482195-8432-444b-828c-6185472dccda,ÖVP,true,true,Austria,at,104365891155211,Christian Sagartz,Facebook
+062e754e-c18a-43e8-b431-79100672834e,Christoph Wolf,2022-12-14T13:27:57.154Z,893a695b-6448-455f-868f-b727017fa931,ÖVP,true,true,Austria,at,540667376103323,Christoph Wolf,Facebook
 07e0421f-3676-41e6-b80a-5e9f6da1e6fa,Wolfgang Hattmannsdorfer,2022-12-14T13:27:58.536Z,dea0e5bc-5d58-4381-b16e-553521b2fe1a,ÖVP,true,true,Austria,at,1480484755308090,Wolfgang Hattmannsdorfer,Facebook
 08ae2f66-d859-4924-9182-fa415201ae8c,Daheim in Pregarten,2023-04-21T06:51:44.691Z,d0f0316c-c20c-4b94-8261-6f10f3ea430d,ÖVP,true,true,Austria,at,361335740604575,Daheim in Pregarten,Facebook
 09b69fcb-60d2-4786-bf24-dcba2ea65539,Martina Kaufmann,2023-12-11T05:05:20.867Z,5555de92-6c68-4e19-8d35-ef4e3677671c,ÖVP,true,true,Austria,at,103370157945635,Martina Kaufmann,Facebook
@@ -451,6 +457,7 @@ f260f755-78f9-440f-b439-93fc81c11a4e,Karin Feldinger,2023-04-04T10:51:47.431Z,81
 14eec13c-46fc-4b5d-b3d7-e10588a338f2,Barbara M. Thaler,2023-02-21T10:51:43.446Z,42eebc85-f226-4216-b899-316052db6a94,ÖVP,true,true,Austria,at,1945277729020140,Barbara M. Thaler,Facebook
 15a0576c-80d3-4538-aaa3-cb210bd59a31,ÖVP Übelbach,2023-02-08T05:55:40.151Z,48ce812f-0bcf-4903-8129-38f0c8c26c0d,ÖVP,true,true,Austria,at,136726803133803,ÖVP Übelbach,Facebook
 16a47116-72bc-4bcd-8589-cc66cdd56a04,JVP Kärnten,2023-07-17T06:30:50.137Z,0e5c949c-9f3b-40e6-bd93-3f506be5602d,ÖVP,true,true,Austria,at,258946450843478,JVP Kärnten,Facebook
+1b997b50-d4b6-4579-b5a6-e91096e55bf6,Bürgermeister Karl-Heinz Koll,2022-12-14T13:27:57.135Z,32d5bded-46b4-4df7-a5d8-6aa7905aff31,ÖVP,true,true,Austria,at,100811812451086,Bürgermeister Karl-Heinz Koll,Facebook
 1c9f2480-d14c-4902-a8f4-ab11298deb28,Harald Zierfuß,2023-09-08T05:05:40.080Z,49e293df-07a8-483e-a44e-3cc96bb7fac2,ÖVP,true,true,Austria,at,246584806503895,Harald Zierfuß,Facebook
 2336c053-2161-4cbd-bcd5-1465e0b30606,Volkspartei Burgenland - ÖVP,2023-02-07T15:05:00.394Z,3b50199d-2603-403d-a3d4-92d56b72d29b,ÖVP,true,true,Austria,at,233694330135809,Volkspartei Burgenland - ÖVP,Facebook
 24afb9c4-ac86-4751-ba69-2e31b72d4f16,oevp.margareten,2024-01-09T05:05:32.910Z,f38ed9bc-dfa9-4ae5-ba29-1c3795e4c3dd,ÖVP,true,true,Austria,at,100729269618528,oevp.margareten,Facebook
@@ -462,6 +469,7 @@ f260f755-78f9-440f-b439-93fc81c11a4e,Karin Feldinger,2023-04-04T10:51:47.431Z,81
 40a464f7-c52a-42dd-8375-e9bf48386b0c,Alex Bernhuber,2022-12-14T13:28:00.318Z,906bb983-49e7-4984-a099-e34f00f61623,ÖVP,true,true,Austria,at,382872055842390,Alex Bernhuber,Facebook
 40e9ae96-b216-41aa-a9fd-f4afd4b91232,Die neue Volkspartei,2022-08-16T15:24:28.066Z,56e3a4c1-e4f1-46f7-9734-5895e0eb2559,ÖVP,true,true,Austria,at,15078244418,Die neue Volkspartei,Facebook
 427864d9-6b13-4e51-a86f-21d646283880,Christian Pober,2022-12-14T13:27:59.376Z,e305f9d9-10af-4fc0-b678-42f727aed8f9,ÖVP,true,true,Austria,at,102387234916999,Christian Pober,Facebook
+4589fd74-e777-4f8e-8e7d-27877db1469e,Dominik Traxl,2022-12-14T13:27:57.153Z,1a700f9a-1e0f-4081-9e8a-6f9515362830,ÖVP,true,true,Austria,at,102094042642942,Dominik Traxl,Facebook
 46d9c239-0ce1-427c-b078-efc382d40f06,Thomas Ranits,2022-12-14T13:27:59.349Z,15d6c1fe-7740-4478-8a21-9f934f1cfee0,ÖVP,true,true,Austria,at,107091724060249,Thomas Ranits,Facebook
 4a848dd3-0f38-4a2d-8f38-450033b1164f,Wolfgang Sobotka,2022-12-14T13:28:00.552Z,fd4d9033-f467-477d-9207-e6ff2fdefcac,ÖVP,true,true,Austria,at,849106955164780,Wolfgang Sobotka,Facebook
 4cdff854-cd5f-4d3a-9e36-f3b55b921827,Volkspartei Ebreichsdorf,2023-03-08T16:49:42.808Z,273b6fae-d2f4-435e-9b72-82811cd1406f,ÖVP,true,true,Austria,at,200547566687232,Volkspartei Ebreichsdorf,Facebook
@@ -470,9 +478,11 @@ f260f755-78f9-440f-b439-93fc81c11a4e,Karin Feldinger,2023-04-04T10:51:47.431Z,81
 5644dc62-6d44-4fcd-9543-82b3e8ea7e1c,Angelika Winzig,2023-07-04T06:14:55.996Z,488ec92e-fc89-481f-80e4-e94336790e49,ÖVP,true,true,Austria,at,141015722773374,Angelika Winzig,Facebook
 57d9f37d-8270-4af7-bac3-c400fd0d9770,Karl Nehammer,2023-02-07T15:04:59.950Z,d9761006-35ba-45f9-b2a9-c29ba5559c10,ÖVP,true,true,Austria,at,1660071144087431,Karl Nehammer,Facebook
 59f21ded-7b90-4873-b395-f35daa5f8ad5,ÖVP Scheibbs,2023-02-08T05:55:39.876Z,cb1e2f90-cccd-495e-b14b-0b40f1ae55e8,ÖVP,true,true,Austria,at,102195087982422,ÖVP Scheibbs,Facebook
+5d17be7f-a31d-4896-8e2a-a8787977c4ee,Josef Geisler,2022-12-14T13:27:56.530Z,308616a2-8621-436a-9efe-b90822deba6f,ÖVP,true,true,Austria,at,104571514385105,Josef Geisler,Facebook
 5d84a0eb-a601-4fcb-9ee8-23318ccc8bf7,JVP Klosterneuburg,2023-09-02T05:05:33.010Z,b0b31c9c-580c-4dad-b677-9c3f7a5634ef,ÖVP,true,true,Austria,at,334352386653462,JVP Klosterneuburg,Facebook
 60c7f214-d3e4-4b86-bf74-adfb830c9ba0,Martin Hajart,2023-10-22T05:05:37.455Z,ae8926b9-de7c-4243-8766-9920afecc096,ÖVP,true,true,Austria,at,1114854191944906,Martin Hajart,Facebook
 6ec35dad-d122-4024-9f68-f58908408b39,ÖVP Puntigam,2022-12-14T13:28:01.076Z,55598748-a0ad-4337-9c96-c87d1dacff5f,ÖVP,true,true,Austria,at,1349049658447337,ÖVP Puntigam,Facebook
+75afd317-8dff-4210-a9cb-01c86bec62cf,Dominik Mainusch,2022-12-14T13:27:57.274Z,caef9462-72eb-46c0-b11c-abb260d38c9d,ÖVP,true,true,Austria,at,1547531662033668,Dominik Mainusch,Facebook
 760f7c6e-ff26-4ba0-94e8-e24da3bbc4c3,ÖVP - Wir für Leonding,2023-02-12T10:51:39.424Z,d059a8c7-3932-4452-a97c-a774470afc8e,ÖVP,true,true,Austria,at,358048400917144,ÖVP - Wir für Leonding,Facebook
 7c7124c1-3d25-4301-88fd-30a8f4cdfa9a,Volkspartei Kärnten,2023-03-04T10:51:52.558Z,810c62db-3452-4a69-988d-0edbe30a5ae5,ÖVP,true,true,Austria,at,52453892958,Volkspartei Kärnten,Facebook
 7fe930ff-3273-43d4-bdbc-a0e65cf0ab88,Volkspartei Langenlois,2023-07-03T06:14:29.737Z,b0b5f00a-fce5-4b5e-90d8-1d40b6bb8e9c,ÖVP,true,true,Austria,at,308601659170190,Volkspartei Langenlois,Facebook
@@ -524,8 +534,10 @@ fa25730a-e804-4eee-ab0d-30769760ccb1,OÖVP - die Oberösterreichische Volksparte
 2afb6667-9712-4152-bd92-092f0e414c36,Harry Preuner,2022-12-14T13:27:57.474Z,ba83b34d-66dd-4f93-a543-909fc0d13535,And,true,true,Austria,at,162205823976077,Harry Preuner,Facebook
 2b03feff-025c-4804-9ead-4281ea8b04cb,Tiroler Volkspartei,2022-12-14T13:27:56.652Z,ea376bcc-5fc8-4b9c-8b57-214ebbf5ea07,And,true,true,Austria,at,217386655005525,Tiroler Volkspartei,Facebook
 2bccd2ee-96cf-4694-af0a-615293f32f8c,Stefan Schnöll,2022-12-14T13:27:57.372Z,70e7d5b3-65ce-40d3-9949-2e56ae6c88f4,And,true,true,Austria,at,524715477879465,Stefan Schnöll,Facebook
+35e93a08-9c72-488b-9c00-6c526ffdc831,NBZ Vorarlberg,2024-01-09T05:05:32.908Z,d8d367ae-f390-417f-a6c6-ba57f43f78c4,And,true,true,Austria,at,1636199349929535,NBZ Vorarlberg,Facebook
 3b692149-d260-4181-bb8a-2a06b0ae3f86,Salzburger Volkspartei,2022-12-14T13:27:58.151Z,c980af41-e4bd-40fd-8216-cf0300cf2e54,And,true,true,Austria,at,243190742384882,Salzburger Volkspartei,Facebook
 3bb16427-51ee-47ad-b4b9-bf7f2d20ab65,ÖAAB Innere Stadt,2023-04-09T10:51:42.954Z,a33e962d-42d5-4b20-95d1-a46ba2ba7525,And,true,true,Austria,at,111006648482554,ÖAAB Innere Stadt,Facebook
+3cb59d97-5cbc-4b15-a612-a19eb7f34ba6,WIR - die Bürgerlisten,2022-12-14T13:27:56.248Z,c41ee29e-0ae2-47cf-8e14-5c455f035a13,And,true,true,Austria,at,101882968344032,WIR - die Bürgerlisten,Facebook
 3f3a73b8-5b69-414a-aba3-09f0288fd95b,Steirische Volkspartei,2022-12-14T13:27:56.351Z,51f7e90a-eb40-413b-b89d-6e379395cea1,And,true,true,Austria,at,114818145852,Steirische Volkspartei,Facebook
 48a5edfc-64e1-41b9-8978-d68d68536fdc,Volkspartei Zwölfaxing,2022-12-14T13:27:59.769Z,d7e597e8-0026-470e-b50e-7af5a95cbaab,And,true,true,Austria,at,1159364210747948,Volkspartei Zwölfaxing,Facebook
 4cede600-e1bc-4881-9c8c-037f3e3f86cb,Gattendorfer Volkspartei,2022-12-14T13:27:57.573Z,34d42412-1081-41a3-a3f8-f45fc81ca8dc,And,true,true,Austria,at,289885256837,Gattendorfer Volkspartei,Facebook
@@ -533,12 +545,18 @@ fa25730a-e804-4eee-ab0d-30769760ccb1,OÖVP - die Oberösterreichische Volksparte
 601326a8-fe19-4820-ab8f-56d7f1eb6be9,5 Sterne fuer Oesterreich Partei,2022-12-14T13:27:56.773Z,085e1221-898a-42d1-a5e9-60c76441c4a6,And,true,true,Austria,at,402903320092664,5 Sterne fuer Oesterreich Partei,Facebook
 62b1ec87-384f-48ae-9aff-253a693bbdda,Johanna Mikl-Leitner,2022-12-14T13:27:57.395Z,84ed51ba-6d04-4f7b-ba31-5472f071f157,And,true,true,Austria,at,1265927890114720,Johanna Mikl-Leitner,Facebook
 635d0625-05a0-4a10-a86d-e57c98df5243,Bregenzer Volkspartei,2022-12-14T13:28:00.231Z,7ba2da99-b5a9-460b-bf0d-c3f32b74c338,And,true,true,Austria,at,104218165309042,Bregenzer Volkspartei,Facebook
+6b0efda3-adeb-474e-bba9-ab828a05753e,Liste Fritz,2022-12-14T13:27:57.433Z,c6ead8bc-0ec2-4e9d-b9fa-d576d746b2dd,And,true,true,Austria,at,116864085003267,Liste Fritz,Facebook
 6f3897e5-b8b7-4895-88f9-69f2707e3df5,Nikolaus Stampfer,2022-12-14T13:27:59.639Z,bfbd6827-d008-449a-aa7b-da96de794972,And,true,true,Austria,at,105580658718042,Nikolaus Stampfer,Facebook
+6f3dacf4-1792-4a7f-9120-39adb3e49d82,Jetzt - Innsbruck - Johannes Anzengruber,2023-12-23T05:05:15.331Z,f1b47878-96c4-4d65-8109-e5d645a69a5e,And,true,true,Austria,at,141549042372492,Jetzt - Innsbruck - Johannes Anzengruber,Facebook
 7977415b-0c7f-4656-ba7e-d6ef7eccbd5b,Volkspartei Brunn am Gebirge,2022-12-14T13:27:57.558Z,915cb150-51ee-45c6-a46f-f68a57a707c6,And,true,true,Austria,at,193966048255,Volkspartei Brunn am Gebirge,Facebook
 7b4fd150-3e95-42ec-84a7-d1a99acc43c6,Volkspartei Mattersburg-Walbersdorf,2022-12-14T13:28:00.251Z,a9206f75-f384-40ac-8cff-030ff6554021,And,true,true,Austria,at,189392521850383,Volkspartei Mattersburg-Walbersdorf,Facebook
 83074bd3-3655-4de9-93ee-0e2d9c743d01,Grazer Volkspartei,2022-12-14T13:27:56.615Z,6924ff77-cbc4-43f4-b125-322ce57af5b3,And,true,true,Austria,at,140551609297017,Grazer Volkspartei,Facebook
+96022fd4-152a-4e05-b2ea-4197cb5e9fe6,Klaus Mair,2022-12-14T13:27:57.632Z,25601308-3941-4ffb-b470-367be1add376,And,true,true,Austria,at,107857792060590,Klaus Mair,Facebook
 9f1ca5ac-ab59-49cb-8b9f-99bd461c32ef,Volkspartei Herzogenburg,2022-12-14T13:27:59.537Z,ff0cad2f-ecea-4ec1-80b0-d26319526aae,And,true,true,Austria,at,317938018255066,Volkspartei Herzogenburg,Facebook
+a20be536-1bc7-4640-b27a-35cdaa68670f,Jakob Wolf,2022-12-14T13:27:57.536Z,93dd4400-5464-4322-a96d-11a620105e96,And,true,true,Austria,at,1417786924993136,Jakob Wolf,Facebook
 b4c08b5d-1ef9-494d-b330-3f55f0a3e5d4,Volt Österreich,2022-12-14T13:28:00.293Z,cde41222-517a-47e4-84ce-e3f0abf4e2f4,And,true,true,Austria,at,179479226195228,Volt Österreich,Facebook
+b52eed77-c162-42b5-a623-ebf6b22ea359,Johannes Schmuckenschlager,2022-12-14T13:27:56.651Z,cf552335-014c-463c-8c53-a7db58e067dc,And,true,true,Austria,at,513008922374813,Johannes Schmuckenschlager,Facebook
+b531afe4-1b15-49d9-96ba-cf1d73c14add,Florian Riedl,2022-12-14T13:27:57.699Z,e9b3ddc4-9da9-4715-8a09-a5f06428a954,And,true,true,Austria,at,856883084428730,Florian Riedl,Facebook
 c1164113-9256-49dc-b7a6-d13f1c5c9b0b,Dornbirner Volkspartei,2022-12-14T13:27:59.932Z,6a74b2bf-16cc-48f8-9509-f3d43d1ffe42,And,true,true,Austria,at,221426064648234,Dornbirner Volkspartei,Facebook
 c3ecc7a4-899a-4e8c-ba65-0fa259f2ee73,Christopher Drexler,2022-12-14T13:27:56.533Z,cc2bc3a4-3573-415d-b011-c98a1a560aa9,And,true,true,Austria,at,605431019800888,Christopher Drexler,Facebook
 d1012838-0f4e-4b5b-a41d-ea2e98577c5b,Volkspartei Parndorf,2022-12-14T13:27:58.420Z,09e87444-e67e-4af4-83f4-a95ce761bd14,And,true,true,Austria,at,257802724266806,Volkspartei Parndorf,Facebook
